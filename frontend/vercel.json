@@ -3,6 +3,5 @@
     { "source": "/", "destination": "/frontend/index.html" },
     { "source": "/register", "destination": "/frontend/register.html" },
     { "source": "/login", "destination": "/frontend/login.html" }
-  ],
-  "cleanUrls": true
+  ]
 }
